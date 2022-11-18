@@ -1,0 +1,14 @@
+fnt font sansation.ttf
+img tileblank tileblank.png
+img tile1 tile1.png
+img tile2 tile2.png
+img tile3 tile3.png
+img tile4 tile4.png
+img tile5 tile5.png
+img tile6 tile6.png
+img tile7 tile7.png
+img tile8 tile8.png
+snd match match.wav
+snd mismatch mismatch.wav
+snd select select.wav
+snd win win.wav
